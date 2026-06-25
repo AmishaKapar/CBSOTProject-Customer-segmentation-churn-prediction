@@ -165,6 +165,7 @@ jupyter notebook CBSOTPROJ1.ipynb
 
 **Amisha Kapar**
 B.Tech student - IGDTUW
+
 AI/ML & Data Science Internship Project CBSOTProject-Customer-segmentation-churn-prediction
 
 ---
